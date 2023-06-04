@@ -96,10 +96,6 @@ const deleteThisJournal = (index) => {
     margin-bottom: 14px;
 }
 
-.date .time {
-    text-align: right;
-}
-
 .title {
     margin-bottom: 15px;
     overflow: hidden;
@@ -132,5 +128,9 @@ const deleteThisJournal = (index) => {
     margin-bottom: 12px;
     margin-top: 2px;
   }
+
+  .date .time {
+    text-align: right;
+}
 }
 </style>
